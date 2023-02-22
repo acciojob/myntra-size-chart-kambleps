@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+table{
+	border:5px solid blue;
+	width:60%;
+}
+td,th{
+	height:40px;
+	border:2px solid;
+}
+td{
+	text-align:center;
+}
